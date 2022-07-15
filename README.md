@@ -1,2 +1,2 @@
-# phpsite
+# crud
 sample php crud
